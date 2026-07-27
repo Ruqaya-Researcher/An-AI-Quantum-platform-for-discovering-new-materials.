@@ -10,4 +10,4 @@ Because developing better batteries requires discovering or designing new materi
 
 How could our project help?
 
-Our goal is to accelerate the discovery of new battery materials by using quantum computing to simulate their properties more efficiently and accurately than traditional approaches where possible.
+Our goal is to discover of new battery materials by using quantum computing and Artificial Intelligence to simulate their properties more efficiently and accurately than traditional approaches where possible.
